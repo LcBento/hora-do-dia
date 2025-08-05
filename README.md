@@ -1,3 +1,4 @@
 # Hora do dia
 
 Projeto que criei para desenvolver minhas habilidades em lógica de programação e javascript.
+<hr/> Site do projeto: https://hora-do-dia-rouge.vercel.app/
